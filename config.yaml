@@ -44,7 +44,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 杂文,随笔,文摘
+        subtitle: 网址收藏
         avatar:
             enabled: true
             local: true
